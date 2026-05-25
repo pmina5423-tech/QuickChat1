@@ -83,9 +83,13 @@ MessageTest (Part 2) verifies:
 Code Attribution
 - South African phone number regex: Adapted from a Stack Overflow answer. Credit is noted in code comments within Registration.java and Main.java.
 - JSON file writing: Implemented manually using FileWriter—no external libraries involved.
+
+  
 Author
 Pretext Mina Mkhondo – ST10463664
 PROG5121 – Programming 1A 
 Version 2.0 – Final POE Submission
 License
 This project is intended solely for academic assessment purposes.
+
+
